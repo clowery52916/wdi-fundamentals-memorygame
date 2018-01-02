@@ -63,14 +63,9 @@ footer {
 	font-size: 14px;
 	letter-spacing: .08em; 
 	font-weight: 500; 
+	font-family: Raleway;
 }
-}
-.copyright {
-	float: left;
-}
-.message {
-	float: right; 
-}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block; 
@@ -83,6 +78,12 @@ footer {
 	color:#F15B31;
 	font-weight: 700; 
 }
+.copyright {
+	float: left;
+}
+.message {
+	float: right; 
+}
 a:hover {
-	background-color:white;
+	border-color: white;
 }
