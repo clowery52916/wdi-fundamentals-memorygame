@@ -42,18 +42,30 @@ a {
 	color: #ffffff;
 	letter-spacing: 1px; 
 	border-bottom: 2px solid transparent; 
+	text-transform: uppercase;
 }
 h2 {
-	font-family: raleway;
+	font-family: Raleway;
 	color:#0d2c40;
 	letter-spacing: 1px; 
 	font-weight: 600; 
 	font-size: 20px; 
+	
 }
 p {
 	font-family: "Droid Serif", serif;
 	line-height: 26px; 
 	font-size: 18px;
+}
+button {
+	background-color: #F15B31;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	font-family: Raleway;
+	text-transform: uppercase;
+	font-weight: 12px;
+	font-size: 14px;
 }
 footer {
 	text-transform: uppercase;
